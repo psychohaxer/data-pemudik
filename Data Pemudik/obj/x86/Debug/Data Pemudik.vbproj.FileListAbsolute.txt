@@ -1,0 +1,19 @@
+C:\Users\SILVERWOLF\AppData\Local\Temporary Projects\Data Pemudik\bin\Debug\Data Pemudik.exe
+C:\Users\SILVERWOLF\AppData\Local\Temporary Projects\Data Pemudik\bin\Debug\Data Pemudik.pdb
+C:\Users\SILVERWOLF\AppData\Local\Temporary Projects\Data Pemudik\bin\Debug\Data Pemudik.xml
+C:\Users\SILVERWOLF\AppData\Local\Temporary Projects\Data Pemudik\obj\x86\Debug\Data_Pemudik.Resources.resources
+C:\Users\SILVERWOLF\AppData\Local\Temporary Projects\Data Pemudik\obj\x86\Debug\Data Pemudik.vbproj.GenerateResource.Cache
+C:\Users\SILVERWOLF\AppData\Local\Temporary Projects\Data Pemudik\obj\x86\Debug\Data Pemudik.exe
+C:\Users\SILVERWOLF\AppData\Local\Temporary Projects\Data Pemudik\obj\x86\Debug\Data Pemudik.xml
+C:\Users\SILVERWOLF\AppData\Local\Temporary Projects\Data Pemudik\obj\x86\Debug\Data Pemudik.pdb
+C:\Users\SILVERWOLF\AppData\Local\Temporary Projects\Data Pemudik\obj\x86\Debug\Data_Pemudik.formUtama.resources
+E:\Code\Visual Basic\[My Experiment]\Data Pemudik\Data Pemudik\obj\x86\Debug\Data Pemudik.exe
+E:\Code\Visual Basic\[My Experiment]\Data Pemudik\Data Pemudik\obj\x86\Debug\Data Pemudik.xml
+E:\Code\Visual Basic\[My Experiment]\Data Pemudik\Data Pemudik\obj\x86\Debug\Data Pemudik.pdb
+E:\Code\Visual Basic\[My Experiment]\Data Pemudik\Data Pemudik\bin\Debug\Data Pemudik.exe
+E:\Code\Visual Basic\[My Experiment]\Data Pemudik\Data Pemudik\bin\Debug\Data Pemudik.pdb
+E:\Code\Visual Basic\[My Experiment]\Data Pemudik\Data Pemudik\bin\Debug\Data Pemudik.xml
+E:\Code\Visual Basic\[My Experiment]\Data Pemudik\Data Pemudik\obj\x86\Debug\Data_Pemudik.formUtama.resources
+E:\Code\Visual Basic\[My Experiment]\Data Pemudik\Data Pemudik\obj\x86\Debug\Data_Pemudik.Resources.resources
+E:\Code\Visual Basic\[My Experiment]\Data Pemudik\Data Pemudik\obj\x86\Debug\Data Pemudik.vbproj.GenerateResource.Cache
+E:\Code\Visual Basic\[My Experiment]\Data Pemudik\Data Pemudik\obj\x86\Debug\Data_Pemudik.formPemudik.resources
